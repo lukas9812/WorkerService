@@ -1,0 +1,39 @@
+2022-07-01 21:58:27.536 +02:00 [INF] Starting up the service.
+2022-07-01 21:58:29.204 +02:00 [INF] Website is up. Status code is: "OK"
+2022-07-01 21:58:29.211 +02:00 [INF] Worker running at: "2022-07-01T21:58:29.2114028+02:00"
+2022-07-01 21:58:34.578 +02:00 [INF] Website is up. Status code is: "OK"
+2022-07-01 21:58:34.578 +02:00 [INF] Worker running at: "2022-07-01T21:58:34.5781375+02:00"
+2022-07-01 21:59:27.099 +02:00 [INF] Starting up the service.
+2022-07-01 21:59:28.586 +02:00 [INF] Website is up. Status code is: "OK"
+2022-07-01 21:59:28.592 +02:00 [INF] Worker running at: "2022-07-01T21:59:28.5920311+02:00"
+2022-07-01 21:59:33.955 +02:00 [INF] Website is up. Status code is: "OK"
+2022-07-01 21:59:33.955 +02:00 [INF] Worker running at: "2022-07-01T21:59:33.9556408+02:00"
+2022-07-01 21:59:39.245 +02:00 [INF] Website is up. Status code is: "OK"
+2022-07-01 21:59:39.245 +02:00 [INF] Worker running at: "2022-07-01T21:59:39.2454380+02:00"
+2022-07-01 21:59:44.752 +02:00 [INF] Website is up. Status code is: "OK"
+2022-07-01 21:59:44.752 +02:00 [INF] Worker running at: "2022-07-01T21:59:44.7523514+02:00"
+2022-07-01 22:00:28.066 +02:00 [INF] Starting up the service.
+2022-07-01 22:00:29.651 +02:00 [INF] Website is up. Status code is: "OK"
+2022-07-01 22:00:29.655 +02:00 [INF] Worker running at: "2022-07-01T22:00:29.6553785+02:00"
+2022-07-01 22:00:35.008 +02:00 [INF] Website is up. Status code is: "OK"
+2022-07-01 22:00:35.008 +02:00 [INF] Worker running at: "2022-07-01T22:00:35.0081645+02:00"
+2022-07-01 22:00:40.493 +02:00 [INF] Website is up. Status code is: "OK"
+2022-07-01 22:00:40.493 +02:00 [INF] Worker running at: "2022-07-01T22:00:40.4937330+02:00"
+2022-07-01 22:02:18.790 +02:00 [INF] Starting up the service.
+2022-07-01 22:02:20.347 +02:00 [INF] Website is up. Status code is: "OK"
+2022-07-01 22:02:20.352 +02:00 [INF] Worker running at: "2022-07-01T22:02:20.3526042+02:00"
+2022-07-01 22:03:17.417 +02:00 [INF] Starting up the service.
+2022-07-01 22:03:19.124 +02:00 [INF] Website is up. Status code is: "OK"
+2022-07-01 22:03:19.131 +02:00 [INF] Worker running at: "2022-07-01T22:03:19.1317402+02:00"
+2022-07-01 22:03:24.496 +02:00 [INF] Website is up. Status code is: "OK"
+2022-07-01 22:03:24.496 +02:00 [INF] Worker running at: "2022-07-01T22:03:24.4961241+02:00"
+2022-07-01 22:06:16.250 +02:00 [INF] Starting up the service.
+2022-07-01 22:06:16.929 +02:00 [INF] Website is up. Status code is: "OK"
+2022-07-01 22:06:16.932 +02:00 [INF] Worker running at: "2022-07-01T22:06:16.9322654+02:00"
+2022-07-01 22:06:22.534 +02:00 [INF] Website is up. Status code is: "OK"
+2022-07-01 22:06:22.534 +02:00 [INF] Worker running at: "2022-07-01T22:06:22.5342200+02:00"
+2022-07-01 22:06:27.825 +02:00 [INF] Website is up. Status code is: "OK"
+2022-07-01 22:06:27.825 +02:00 [INF] Worker running at: "2022-07-01T22:06:27.8256720+02:00"
+2022-07-01 22:06:33.162 +02:00 [INF] Website is up. Status code is: "OK"
+2022-07-01 22:06:33.163 +02:00 [INF] Worker running at: "2022-07-01T22:06:33.1629899+02:00"
+2022-07-01 22:06:38.140 +02:00 [INF] The service has been stopped...
